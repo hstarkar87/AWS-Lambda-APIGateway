@@ -1,0 +1,16 @@
+{
+  "Information": [
+    "This file is used to configure the AWS Lambda .NET deployment."
+  ],
+  "profile": "default",
+  "region": "ap-south-1",
+  "configuration": "Release",
+  "framework": "net8.0",
+  "function-runtime": "dotnet8",
+  "function-handler": "PriceService::PriceService.LambdaEntryPoint::FunctionHandlerAsync",
+  "function-memory-size": 256,
+  "function-timeout": 30,
+  "function-name": "PriceService",
+  "package-type": "Zip",
+  "function-role": "arn:aws:iam::625039860489:role/LambdaPriceServiceRole"
+}
