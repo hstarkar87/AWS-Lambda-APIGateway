@@ -32,3 +32,10 @@ C:\Users\hiteshku\repos\services\PriceService\obj\Debug\net8.0\refint\PriceServi
 C:\Users\hiteshku\repos\services\PriceService\obj\Debug\net8.0\PriceService.pdb
 C:\Users\hiteshku\repos\services\PriceService\obj\Debug\net8.0\PriceService.genruntimeconfig.cache
 C:\Users\hiteshku\repos\services\PriceService\obj\Debug\net8.0\ref\PriceService.dll
+C:\Users\hiteshku\repos\services\priceservice\bin\Debug\net8.0\aws-lambda-tools-defaults.json
+C:\Users\hiteshku\repos\services\priceservice\bin\Debug\net8.0\Amazon.Lambda.APIGatewayEvents.dll
+C:\Users\hiteshku\repos\services\priceservice\bin\Debug\net8.0\Amazon.Lambda.ApplicationLoadBalancerEvents.dll
+C:\Users\hiteshku\repos\services\priceservice\bin\Debug\net8.0\Amazon.Lambda.AspNetCoreServer.dll
+C:\Users\hiteshku\repos\services\priceservice\bin\Debug\net8.0\Amazon.Lambda.Core.dll
+C:\Users\hiteshku\repos\services\priceservice\bin\Debug\net8.0\Amazon.Lambda.Logging.AspNetCore.dll
+C:\Users\hiteshku\repos\services\priceservice\bin\Debug\net8.0\Amazon.Lambda.Serialization.SystemTextJson.dll
