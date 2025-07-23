@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace VehicleService.Controllers;
 
 [ApiController]
-[Route("vehicle")]
+[Route("[controller]")]
 public class VehicleController : ControllerBase
 {
     [HttpGet("{id}")]

@@ -1,6 +1,7 @@
 C:\Users\hiteshku\repos\services\PriceService\bin\Release\net8.0\publish\PriceService
 C:\Users\hiteshku\repos\services\PriceService\bin\Release\net8.0\publish\appsettings.Development.json
 C:\Users\hiteshku\repos\services\PriceService\bin\Release\net8.0\publish\appsettings.json
+C:\Users\hiteshku\repos\services\PriceService\bin\Release\net8.0\publish\aws-lambda-tools-defaults.json
 C:\Users\hiteshku\repos\services\PriceService\bin\Release\net8.0\publish\PriceService.dll
 C:\Users\hiteshku\repos\services\PriceService\bin\Release\net8.0\publish\PriceService.deps.json
 C:\Users\hiteshku\repos\services\PriceService\bin\Release\net8.0\publish\PriceService.runtimeconfig.json

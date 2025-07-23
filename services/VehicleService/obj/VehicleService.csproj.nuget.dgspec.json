@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hiteshku\\repos\\services\\VehicleService\\VehicleService.csproj": {}
+    "C:\\Users\\hiteshku\\repos\\services\\vehicleservice\\VehicleService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hiteshku\\repos\\services\\VehicleService\\VehicleService.csproj": {
+    "C:\\Users\\hiteshku\\repos\\services\\vehicleservice\\VehicleService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hiteshku\\repos\\services\\VehicleService\\VehicleService.csproj",
+        "projectUniqueName": "C:\\Users\\hiteshku\\repos\\services\\vehicleservice\\VehicleService.csproj",
         "projectName": "VehicleService",
-        "projectPath": "C:\\Users\\hiteshku\\repos\\services\\VehicleService\\VehicleService.csproj",
+        "projectPath": "C:\\Users\\hiteshku\\repos\\services\\vehicleservice\\VehicleService.csproj",
         "packagesPath": "C:\\Users\\hiteshku\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hiteshku\\repos\\services\\VehicleService\\obj\\",
+        "outputPath": "C:\\Users\\hiteshku\\repos\\services\\vehicleservice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hiteshku\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -67,6 +67,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[8.0.18, 8.0.18]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -76,6 +82,11 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.412/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
         }
       }
     }

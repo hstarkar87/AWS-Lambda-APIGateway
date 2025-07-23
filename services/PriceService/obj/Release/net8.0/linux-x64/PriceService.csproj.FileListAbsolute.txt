@@ -38,3 +38,4 @@ C:\Users\hiteshku\repos\services\PriceService\obj\Release\net8.0\linux-x64\refin
 C:\Users\hiteshku\repos\services\PriceService\obj\Release\net8.0\linux-x64\PriceService.pdb
 C:\Users\hiteshku\repos\services\PriceService\obj\Release\net8.0\linux-x64\PriceService.genruntimeconfig.cache
 C:\Users\hiteshku\repos\services\PriceService\obj\Release\net8.0\linux-x64\ref\PriceService.dll
+C:\Users\hiteshku\repos\services\priceservice\bin\Release\net8.0\linux-x64\aws-lambda-tools-defaults.json
